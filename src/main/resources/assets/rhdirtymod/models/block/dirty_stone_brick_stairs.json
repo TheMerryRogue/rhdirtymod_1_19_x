@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "rhdirtymod:block/dirty_stone_bricks",
+    "side": "rhdirtymod:block/dirty_stone_bricks_side",
+    "top": "rhdirtymod:block/dirty_stone_bricks"
+  }
+}

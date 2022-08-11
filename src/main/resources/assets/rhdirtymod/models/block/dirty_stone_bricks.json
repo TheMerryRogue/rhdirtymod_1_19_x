@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "rhdirtymod:block/dirty_stone_bricks"
+  }
+}

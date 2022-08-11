@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "rhdirtymod:dirty_cobblestone",
+    "rhdirtymod:dirty_cobblestone_stairs",
+    "rhdirtymod:dirty_cobblestone_slab",
+    "rhdirtymod:dirty_stone_bricks",
+    "rhdirtymod:dirty_stone_brick_stairs",
+    "rhdirtymod:dirty_stone_brick_slab",
+
+    "rhdirtymod:sandy_cobblestone",
+    "rhdirtymod:sandy_cobblestone_stairs",
+    "rhdirtymod:sandy_cobblestone_slab",
+    "rhdirtymod:sandy_stone_bricks",
+    "rhdirtymod:sandy_stone_brick_stairs",
+    "rhdirtymod:sandy_stone_brick_slab"
+  ]
+}

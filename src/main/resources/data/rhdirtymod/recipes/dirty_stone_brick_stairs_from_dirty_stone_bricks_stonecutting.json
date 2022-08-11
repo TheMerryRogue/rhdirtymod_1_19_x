@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "rhdirtymod:dirty_stone_bricks"
+  },
+  "result": "rhdirtymod:dirty_stone_brick_stairs"
+}

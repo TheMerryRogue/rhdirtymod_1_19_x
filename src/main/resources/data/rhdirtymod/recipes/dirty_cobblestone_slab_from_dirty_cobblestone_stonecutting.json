@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "rhdirtymod:dirty_cobblestone"
+  },
+  "result": "rhdirtymod:dirty_cobblestone_slab"
+}
